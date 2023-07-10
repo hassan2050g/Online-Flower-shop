@@ -1,0 +1,60 @@
+/* Global styles */
+
+* {
+  margin: 0;
+}
+
+/*Banner section styles */
+.banner-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: rgba(229, 84, 115, 0.1);
+  gap: 90px;
+}
+
+.banner-description {
+  padding-left: 200px;
+}
+
+.banner-title {
+  color: #272727;
+  font-family: Lato;
+  font-size: 70px;
+  font-weight: 800;
+}
+
+.banner-sub-title {
+  color: rgba(39, 39, 39, 0.6);
+  font-family: Lato;
+  font-size: 18px;
+  margin: 32px 0px 32px 0px;
+}
+.banner-shop-btn {
+  border-radius: 8px;
+  background: #e55473;
+  color: white;
+  font-size: 20px;
+  border: 0px;
+  padding: 20px 43px;
+}
+
+.banner-pic {
+  width: 500px;
+  height: 700px;
+  padding-right: 240px;
+}
+
+/*Featured Flowers section styles */
+
+/*Delivery section styles*/
+
+/*Hot deals section styles*/
+
+/*Insta section styles*/
+
+/*Customer Reviews section styles*/
+
+/*Subscribe section  styles*/
+
+/*Footer section styles */
