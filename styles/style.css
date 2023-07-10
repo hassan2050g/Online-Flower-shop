@@ -10,17 +10,19 @@
   align-items: center;
   justify-content: space-between;
   background-color: rgba(229, 84, 115, 0.1);
-  gap: 90px;
+  gap: 60px;
+  padding-top: 50px;
 }
 
 .banner-description {
-  padding-left: 200px;
+  padding-left: 150px;
+  padding-top: 150px;
 }
 
 .banner-title {
   color: #272727;
   font-family: Lato;
-  font-size: 70px;
+  font-size: 50px;
   font-weight: 800;
 }
 
@@ -41,8 +43,8 @@
 
 .banner-pic {
   width: 500px;
-  height: 700px;
-  padding-right: 240px;
+  height: 630px;
+  padding-right: 150px;
 }
 
 /*Featured Flowers section styles */
