@@ -32,6 +32,7 @@ Global styles * {
   font-size: 18px;
   margin: 32px 0px 32px 0px;
 }
+
 .banner-shop-btn {
   border-radius: 8px;
   background: #e55473;
@@ -199,7 +200,7 @@ Global styles * {
   border: 2px solid #000;
   border-radius: 10px;
   padding: 20px;
-  background-color: #efebeb;
+  background-color: rgba(229, 84, 115, 0.1);
 }
 
 .review-content {
@@ -217,15 +218,21 @@ Global styles * {
   margin-top: 100px;
 }
 
+.review-sub-title {
+  color: rgba(39, 39, 39, 0.6);
+  text-align: center;
+  font-size: 18px;
+  align-items: center;
+}
+
 .client-img {
   width: 200px;
   height: 200px;
 }
 
 .quote {
-  justify-content: center;
   padding: 24px;
-  align-items: center;
+  text-align: center;
   border: 2px solid rgb(25, 1, 9);
   border-radius: 14px;
   padding: 20px;
